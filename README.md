@@ -25,7 +25,7 @@ __pycache__/
 """
 
 # 3. Initialize Git repository (run in terminal)
-# git init
+# git ini
 # git add .
 # git commit -m "Initial commit"
 # git branch -M main
