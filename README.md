@@ -1,6 +1,6 @@
 # Example GitHub Repository Setup: Python Project
 
-# 1. Create a new Python project with a main file and README
+# 1. reate a new Python project with a main file and README
 
 # File: README.md
 """
